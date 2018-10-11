@@ -8,3 +8,5 @@ Rubens de Oliveira Moraes Filho - Universidade Federal de Viçosa - rubensolv@gm
 Julian Mariño - Universidade de São Paulo – marino.julian.r@gmail.com
 
 Levi Lelis - Universidade Federal de Viçosa - levilelis@gmail.com
+
+Mario Nascimento - University of Alberta - mario.nascimento@ualberta.ca
