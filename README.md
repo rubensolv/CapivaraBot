@@ -18,8 +18,8 @@ References
                Mari{\~{n}}o, Julian and
                Lelis, Levi HS
                and Nascimento, Mario A},
- title     = {Evolving Action Abstractionsfor Real-Time Planning in Extensive-Form Games},
- booktitle = {Proceedings of the {AAAI} Conference on Artificial Intelligence},
+ title     = {Action Abstractions for Combinatorial Multi-Armed Bandit Tree Search},
+ booktitle = {Proceedings of the {AAAI} Conference on Artificial Intelligence and Interactive Digital Entertainment},
  year      = {2019},
 }
 
