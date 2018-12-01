@@ -13,22 +13,16 @@ Mario Nascimento - University of Alberta - mario.nascimento@ualberta.ca
 
 References
 
-@inproceedings{A3N2018,
- author    = {Moraes, Rubens O and
-               Mari{\~{n}}o, Julian and
-               Lelis, Levi HS
-               and Nascimento, Mario A},
- title     = {Action Abstractions for Combinatorial Multi-Armed Bandit Tree Search},
- booktitle = {Proceedings of the {AAAI} Conference on Artificial Intelligence and Interactive Digital Entertainment},
- year      = {2019},
+@article{MoraesMLN18,
+title={Action Abstractions for Combinatorial Multi-Armed Bandit Tree Search},
+author={Rubens O. Moraes and Julian R. H. {Mari\~no} and Levi H. S. Lelis and Mario A. Nascimento},
+journal={AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+year={2018}
 }
 
 @inproceedings{MarinoMoraesToledoLelis,
- author    = {Julian Mari{\~{n}}o and
-              Moraes, Rubens O and
-               Lelis, Levi HS and
-               Claudio Toledo },
+ author    = {Julian R. H. {Mari\~no} and Rubens O. Moraes and Claudio F. M. Toledo and Levi H. S. Lelis.},
  title     = {Evolving Action Abstractionsfor Real-Time Planning in Extensive-Form Games},
  booktitle = {Proceedings of the {AAAI} Conference on Artificial Intelligence},
- year      = {2019},
+ year      = {2019}
 }
